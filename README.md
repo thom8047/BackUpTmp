@@ -12,4 +12,4 @@ After start up this is my Git for Windows terminal:
 ![Saying yes](img/'Screenshot (77).png'); ![Saying no](img/'Screenshot (79).png'); 
 
 
-![Copying files](main/img/Screenshot%20(78).png?raw=true)
+![Copying files](https://github.com/thom8047/BackUpTmp/blob/main/img/Screenshot%20(78).png?raw=true)
