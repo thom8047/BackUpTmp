@@ -10,4 +10,4 @@ I added a while loop that reads user input, specifically a [Y/N], and prompts th
 After start up this is my Git for Windows terminal:
 
 ![Saying yes](img/'Screenshot (77).png'); ![Saying no](img/'Screenshot (79).png'); 
-![Copying files](img/'Screenshot (78).png')
+![Copying files](main/img/Screenshot%20(78).png)
