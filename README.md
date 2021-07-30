@@ -9,7 +9,7 @@ I added a while loop that reads user input, specifically a [Y/N], and prompts th
 
 After start up this is my Git for Windows terminal:
 
-![Saying yes](https://github.com/thom8047/BackUpTmp/blob/main/img/Screenshot%20(77).png?raw=true); ![Saying no](https://github.com/thom8047/BackUpTmp/blob/main/img/Screenshot%20(79).png?raw=true) 
+![Saying yes](https://github.com/thom8047/BackUpTmp/blob/main/img/Screenshot%20(77).png?raw=true);
 
 
 ![Copying files](https://github.com/thom8047/BackUpTmp/blob/main/img/Screenshot%20(78).png?raw=true)
